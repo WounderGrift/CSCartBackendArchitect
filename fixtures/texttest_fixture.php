@@ -14,6 +14,7 @@ $items = array(
     new Item('Concert tickets', 15, 20),
     new Item('Concert tickets', 10, 49),
     new Item('Concert tickets', 5, 49),
+    new Item('Unremarkable ticket', 14, 18),
 );
 
 $app = new Shop($items);
