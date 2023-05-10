@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Tests\ApprovalTest" file="D:\OpenServer\domains\architectBackend\apply-for-job\tests\ApprovalTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.014683">
+    <testcase name="testTestFixture" class="Tests\ApprovalTest" classname="Tests.ApprovalTest" file="D:\OpenServer\domains\architectBackend\apply-for-job\tests\ApprovalTest.php" line="12" assertions="1" time="0.014683"/>
+  </testsuite>
+</testsuites>
